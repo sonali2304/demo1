@@ -1,24 +1,16 @@
 {
   "posts": [
-    { "albumId" : 4,
-      "id": 151,
-      "title": "angular1",
-      "url": "https:11",
-    },
-    { "albumId" : 4,
-      "id": 152,
-      "title": "angular1",
-      "url": "https:11",
-    },
-    { "albumId" : 4,
-      "id": 153,
-      "title": "angular1",
-      "url": "https:11",
-    },
-    { "albumId" : 4,
-      "id": 154,
-      "title": "angular1",
-      "url": "https:11",
-    } 
-  ]
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
 }
