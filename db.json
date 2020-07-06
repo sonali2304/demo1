@@ -1,5 +1,5 @@
-{ "posts": 
-  [
+{
+  "posts": [
     { "albumId" : 4,
       "id": 151,
       "title": "angular1",
@@ -19,6 +19,6 @@
       "id": 154,
       "title": "angular1",
       "url": "https:11",
-    }
-]
+    } 
+  ]
 }
